@@ -1,0 +1,1 @@
+func=lambda eur, usd, rub:  format((eur+usd+rub)*1000,'.1f')
